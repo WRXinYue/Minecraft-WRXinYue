@@ -1,0 +1,53 @@
+# Minecraft
+world/
+logs/
+cache/
+
+# IDE/编辑器
+.idea/
+.vscode/
+
+# 构建/编译输出
+bin/
+build/
+dist/
+
+# 临时文件
+*.tmp
+*.temp
+
+# 游戏配置文件
+options.txt
+optionsof.txt
+
+# 日志文件
+*.log
+
+# 其他生成的文件
+*.bak
+*.backup
+*.swp
+.DS_Store
+Thumbs.db
+
+# 忽略自定义的目录和文件
+/custom_directory/
+__MACOSX/
+assets/
+config/
+crash-reports/
+CustomSkinLoader/
+ffmpeg/
+journeymap/
+libraries/
+Natives/
+replay_recordings/
+replay_videos/
+resourcepacks/
+saves/
+shaderpacks/
+screenshots/
+custom_file.txt
+
+# 虚拟机崩溃日志，请参阅 http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
