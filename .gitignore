@@ -2,6 +2,7 @@
 world/
 logs/
 cache/
+!*.exe
 
 # IDE/编辑器
 .idea/
