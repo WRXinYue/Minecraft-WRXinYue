@@ -34,14 +34,16 @@ Thumbs.db
 # 忽略自定义的目录和文件
 /custom_directory/
 __MACOSX/
+Natives/
+.mixin.out/
 assets/
 config/
 crash-reports/
 CustomSkinLoader/
-ffmpeg/
+fonts/
 journeymap/
 libraries/
-Natives/
+.replay_cache/
 replay_recordings/
 replay_videos/
 resourcepacks/
